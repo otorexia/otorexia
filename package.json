@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-vuepress",
+  "scripts": {
+    "start": "vuepress dev portfolio",
+    "site:build": "vuepress build portfolio"
+  },
+  "author": "Nichlas W. Andersen",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.14.1"
+  }
+}
