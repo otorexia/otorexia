@@ -14,5 +14,3 @@ fields:
     wysiwyg: true
     schema:
       format: html
-pages:
-- portfolio/blog/43.md

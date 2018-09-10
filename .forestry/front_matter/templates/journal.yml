@@ -20,5 +20,3 @@ fields:
   type: datetime
   config:
     required: true
-pages:
-- portfolio/blog/testing-blog-features.md
