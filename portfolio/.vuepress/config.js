@@ -9,7 +9,7 @@ module.exports = {
       { text: "Projects", link: "/", position: "left", external: false },
       { text: "Support Me", link: "https://www.patreon.com/", position: "left", external: true },
       { text: 'Blog', link: '/blog/', position: 'right', external: false },
-      { text: "Cntact Me", link: "mailto:otorexia@hotmail.com", position: "right", external: true },
+      { text: "Contact Me", link: "mailto:otorexia@hotmail.com", position: "right", external: true },
     ]
   },
   head: [
