@@ -16,7 +16,9 @@ fields:
 - name: date
   default: ''
   label: Date
-  hidden: true
+  hidden: false
   type: datetime
   config:
     required: true
+pages:
+- portfolio/blog/have-your-own-site-with-blog-without-any-cost-or-hassle.md
