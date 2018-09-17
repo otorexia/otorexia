@@ -176,4 +176,11 @@
     font-weight: 400;
   }
 
+  .content ol {
+    margin-left: 20px;
+  }
+  .content ul {
+    margin-left: 20px;
+  }
+
 </style>
